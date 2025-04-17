@@ -1,0 +1,12 @@
+{
+  "task_id": "a0b3f740-c869-4d53-8060-e07aaa99eaff",
+  "task_type": "classification",
+  "node_id": "nodo_imagen_1",
+  "original_filename": "img2.jpeg",
+  "result": {
+    "label": "bikini",
+    "confidence": 0.701,
+    "category": "Desconocido"
+  },
+  "timestamp": 1744848930.6450171
+}

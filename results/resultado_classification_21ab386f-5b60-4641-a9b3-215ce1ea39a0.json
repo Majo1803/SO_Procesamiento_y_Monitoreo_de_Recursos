@@ -1,0 +1,12 @@
+{
+  "task_id": "21ab386f-5b60-4641-a9b3-215ce1ea39a0",
+  "task_type": "classification",
+  "node_id": "nodo_imagen_1",
+  "original_filename": "img5.jpg",
+  "result": {
+    "label": "sandbar",
+    "confidence": 0.5529,
+    "category": "Paisaje"
+  },
+  "timestamp": 1744848930.739142
+}

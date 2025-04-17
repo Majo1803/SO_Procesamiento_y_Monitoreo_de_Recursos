@@ -1,0 +1,12 @@
+{
+  "task_id": "6abda992-6eae-4b5f-8be5-5af38256ab6f",
+  "task_type": "classification",
+  "node_id": "nodo_imagen_1",
+  "original_filename": "img4.jpeg",
+  "result": {
+    "label": "golden retriever",
+    "confidence": 0.9894,
+    "category": "Perro"
+  },
+  "timestamp": 1744848930.699391
+}

@@ -1,0 +1,12 @@
+{
+  "task_id": "112edf52-d391-4ae4-8cc8-7826fe25a25f",
+  "task_type": "classification",
+  "node_id": "nodo_imagen_1",
+  "original_filename": "img1.jpg",
+  "result": {
+    "label": "wig",
+    "confidence": 0.2057,
+    "category": "Retrato"
+  },
+  "timestamp": 1744848930.6137471
+}

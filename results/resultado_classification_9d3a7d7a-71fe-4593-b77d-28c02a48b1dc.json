@@ -1,0 +1,12 @@
+{
+  "task_id": "9d3a7d7a-71fe-4593-b77d-28c02a48b1dc",
+  "task_type": "classification",
+  "node_id": "nodo_imagen_1",
+  "original_filename": "img3.jpeg",
+  "result": {
+    "label": "tabby",
+    "confidence": 0.5571,
+    "category": "Gato"
+  },
+  "timestamp": 1744848930.676258
+}
